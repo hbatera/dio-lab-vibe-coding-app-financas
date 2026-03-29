@@ -133,5 +133,6 @@ Depois de preencher o modelo, use o Copilot Web para revisar e melhorar o seu pr
 ### 3 Resumo
 - O app FinChat serve para registrar entradas e saidas financeiras pessoais, criar metas e visualizar relatório de receitas e despezas.
 
-### 4 Essa etapa me ajudou a entender mais sobre vibe coding e conhecer melhor o Lovable que era uma ferramenta que eu já queria explorar.
+### 4 
+- Essa etapa me ajudou a entender mais sobre vibe coding e conhecer melhor o Lovable que era uma ferramenta que eu já queria explorar.
 
